@@ -32,7 +32,7 @@ Usage of crlfscan:
 ```
 
 ## Example
-* ```crlfscan -u google.com```
+* ```crlfscan -url google.com```
 * ```crlfscan -wordlist testurls```
 
 ## Bugs/Issues
